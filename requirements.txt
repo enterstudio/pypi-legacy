@@ -71,3 +71,4 @@ zope.traversing==4.0.0
 # The following packages are commented out because they are
 # considered to be unsafe in a requirements file:
 # setuptools                # via cryptography, fs, perfmetrics, zope.browser, zope.component, zope.configuration, zope.contenttype, zope.event, zope.exceptions, zope.i18n, zope.i18nmessageid, zope.interface, zope.location, zope.pagetemplate, zope.proxy, zope.publisher, zope.schema, zope.security, zope.tal, zope.tales, zope.traversing
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
