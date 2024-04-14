@@ -20,7 +20,7 @@ docutils==0.12
 enum34==1.1.6             # via cryptography
 fs==0.5.4
 html5lib==0.9999999
-idna==2.1                 # via cryptography
+idna==3.7                 # via cryptography
 ipaddress==1.0.16         # via cryptography
 itsdangerous==0.24
 ndg-httpsclient==0.4.0    # via requests
